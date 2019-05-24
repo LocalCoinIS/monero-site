@@ -29,6 +29,8 @@
       url: https://www.coindirect.com/buy/monero
     - name: CoinSwitch.co
       url: https://www.coinswitch.co
+    - name: LocalCoin.is - DEX
+      url: https://LocalCoin.is
     - name: CryptoBridge
       url: https://crypto-bridge.org
     - name: CRYPTODIGGERS.EU
